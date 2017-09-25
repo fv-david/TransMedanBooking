@@ -4,8 +4,8 @@ jdk:
 services:
 - postgresql
 before_install:
-- psql -uroot -c "drop database if exists bookingbus" -U postgres
-- psql -uroot -c "create database bookingbus" -U postgres
+- psql -c "drop database if exists bookingbus" -U postgres
+- psql -c "create database bookingbus" -U postgres
 deploy:
   provider: heroku
   api_key:
