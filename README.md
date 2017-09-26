@@ -7,3 +7,30 @@
 Contoh Aplikasi untuk booking bus secara online, dengan Restfull aplikasi.
 
 ### Teknologi
+
+* Angular 4
+
+	* Setup Project dengan Angular CLI
+	* Menambahkan Bootstrap CSS dengan ng2-bootstrap
+	* Komponen dan modul
+	* Menampilkan data jadwal bus
+	* Membuat form input
+	* Routing
+	* Access Control
+
+* Spring Security dan OAuth 2.0
+
+	* Spring Security
+	* Menggunakan database postgresql
+	* Method Security
+	* Setup Spring OAuth
+	* Menggunakan Grant Type : password
+
+* Integrasi
+
+	* Implement Login Angular 4 dengan OAuth
+	* HTTP Request/Response dari Angular 4 frontend ke Spring boot backend
+
+```
+	Note: Masih tahap update
+```
