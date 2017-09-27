@@ -31,6 +31,10 @@ Contoh Aplikasi untuk booking bus secara online, dengan Restfull aplikasi.
 	* Implement Login Angular 4 dengan OAuth
 	* HTTP Request/Response dari Angular 4 frontend ke Spring boot backend
 
+
+* WEB
+	[Web-TransMedan](https://github.com/fv-david/WebTransMedan)
+
 * Gambar
 
 ![Gambar 1](img/transMedan.png)
